@@ -1,4 +1,4 @@
-### File description
+# File description
 
 The left panel of the animation shows a 2D snapshot of the inflaton field $\phi$ as a function of e-folds time $N_e$ in reduced Planck mass units $M_{\rm Pl}$ =1. 
 
@@ -8,13 +8,13 @@ There are three animations, corresponding to case A, B and C presented in [ref] 
 
 Here is a description of what is happening in these three cases:
 
-# Case A
+## Case A
 
 In case A, blabla
 
-# Case B
+## Case B
 
 In case B, blabla
 
-# Case C
+## Case C
 
