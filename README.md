@@ -19,3 +19,7 @@ The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ 
 ![](3-non-perturbative.gif)
 
 
+
+
+https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/49bbc454-ec88-4347-be68-8d3f92de816e
+
