@@ -8,5 +8,8 @@ The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ 
 
 The right panel shows the 1-point probability density function (PDF) of inflaton field values across the simulation.
 
+This is the animation:
+
+![](1-perturbative.gif)
 
 
