@@ -8,7 +8,7 @@ The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ 
 
 ## Setup 1: perturbative
 
-![](1-perturbative.gif)
+https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/49bbc454-ec88-4347-be68-8d3f92de816e
 
 ## Setup 2: highly non-perturbative
 
@@ -21,5 +21,5 @@ The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ 
 
 
 
-https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/49bbc454-ec88-4347-be68-8d3f92de816e
+
 
