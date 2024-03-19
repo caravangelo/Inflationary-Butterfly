@@ -12,11 +12,13 @@ https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/49bbc454-
 
 ## Setup 2: highly non-perturbative
 
-![](2-highly-non-perturbative.gif)
+https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/af6ab407-3ef6-4711-9ee3-f9effc565657
 
 ## Setup 3: non-perturbative
 
-![](3-non-perturbative.gif)
+https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/3f4ae70d-b6c2-4c49-8ec1-2d950f3e1194
+
+
 
 
 
