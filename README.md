@@ -1,4 +1,4 @@
-# File description
+# Animations
 
 This repository contains animations of the simulation presented in arXiv:??????
 
