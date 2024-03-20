@@ -20,7 +20,7 @@ https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/af6ab407-
 
 ## Setup 3: non-perturbative
 
-In this mixed situation, only some regions of the Universe get stuck. These regions are shown in red during the last part of the simulation. After the end of inflation, these regions will become black holes from the point of view of an outside observer. From the inside, they are expanding parallel Universes.
+In this mixed situation, only some regions of the Universe get stuck. These regions are shown in red during the last part of the simulation. After the end of inflation, these regions will become black holes from the point of view of an outside observer. From the inside, they are forever expanding parallel Universes.
 
 https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/3f4ae70d-b6c2-4c49-8ec1-2d950f3e1194
 
