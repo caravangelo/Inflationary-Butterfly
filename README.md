@@ -4,7 +4,7 @@ This repository contains animations of the simulation presented in arXiv:2403.12
 
 There are three animations, one for each case presented in the paper.
 
-The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ as a function of e-folds time $N$. The right panel shows the 1-point probability density function (PDF) of inflaton field values across the simulation, overlapped with a plot of the potential (green). For definition of the notation, we refer to the paper.
+The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ as a function of e-folds time $N$. The right panel shows the 1-point probability density function (PDF) of inflaton field values across the simulation, overlapped with a plot of the potential (green). For definitions and notations, please see the paper.
 
 ## Setup 1: perturbative
 
