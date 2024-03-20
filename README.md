@@ -1,6 +1,6 @@
 # Animations
 
-This repository contains animations of the simulation presented in arXiv:??????
+This repository contains animations of the simulation presented in arXiv:2403.12811 (https://arxiv.org/abs/2403.12811)
 
 There are three animations, one for each case presented in the paper.
 
