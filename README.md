@@ -8,6 +8,8 @@ The left panel of the animation shows 2D snapshots of the inflaton field $\phi$ 
 
 ## Setup 1: perturbative
 
+On the left, we can see structures in the inflaton field changing size and position before settling down. On the right, the distribution of values follows our perturbative intuition: the inflaton is a very sharp distribution of values, and quantum fluctuations remain small.
+
 https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/49bbc454-ec88-4347-be68-8d3f92de816e
 
 ## Setup 2: highly non-perturbative
