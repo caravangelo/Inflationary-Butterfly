@@ -14,7 +14,7 @@ https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/49bbc454-
 
 ## Setup 2: highly non-perturbative
 
-This time the situation is different: while at the first the dynamics is similar to the one above, the situation soon changes: flucuations grow large, and consequently the Universe gets stuck inside the oscillatory part of the potential. Inflation last forever in this setup, and this is due only to the presence of the tiny initial quantum fluctuations.
+This time the situation is different: while at the first the dynamics resembles the one above, the situation soon changes: flucuations grow large, and consequently the Universe gets stuck inside the oscillatory part of the potential. Inflation lasts forever in this setup, and this is due to the presence of the tiny initial quantum fluctuations.
 
 https://github.com/caravangelo/Inflationary-Butterfly/assets/114597797/af6ab407-3ef6-4711-9ee3-f9effc565657
 
