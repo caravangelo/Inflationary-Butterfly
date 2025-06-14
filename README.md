@@ -1,6 +1,8 @@
 # Animations
 
-This repository contains animations of the simulation presented in arXiv:2403.12811 (https://arxiv.org/abs/2403.12811).
+This repository contains animations of the simulations presented in arXiv:2403.12811 (https://arxiv.org/abs/2403.12811).
+
+**These simulations were performed using [InflationEasy](https://github.com/caravangelo/inflation-easy.git), an open-source lattice code for inflation.**
 
 There are three animations, each corresponding to a case presented in the paper.
 
